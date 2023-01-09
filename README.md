@@ -1,8 +1,6 @@
 - 👋 Hola, I’m @arsusToday
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning solidity and web3.js
-- 💞️ I’m looking to collaborate on any Ethereum-based projects
-- 📫 How to reach me you can reach me mostly via Telegram @arslanchik24
+- 👀 If ya'll looking for WebView Android apps - you found the right guy
+- 
 
 <!---
 arsusToday/arsusToday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
