@@ -1,5 +1,4 @@
-- 👋 Hola, I’m @arsusToday
-- 👀 If ya'll looking for WebView Android apps - you found the right guy
+- 👋 Hey man, I’m @arsusToday
 - 
 
 <!---
